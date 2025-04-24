@@ -6,7 +6,6 @@ This Power BI dashboard analyzes OLA ride bookings for July 2024. It displays ke
 ## 🛠️ Tools Used
 - Microsoft Power BI
 - Microsoft Excel (for data preparation)
-- DAX (Data Analysis Expressions) – for creating calculated columns, measures, and dynamic visuals
 - Power Query (M Language) – for data transformation and loading within Power BI
 - Power BI Themes & Custom Visuals – for enhanced UI/UX and customization
 
@@ -43,6 +42,8 @@ This Power BI dashboard analyzes OLA ride bookings for July 2024. It displays ke
 - [CSV Data Source](https://github.com/Kunal-Rawat007/Website-Performance-Analysis/blob/main/ola-dashboard-data.csv)
 
 ## 🔮 Future Improvements
-- Add real-time data connection
-- Implement advanced segmentation by user demographics
-- Create mobile-optimized view
+- Integrate predictive analytics to forecast ride demand and cancellations
+- Add drill-through functionality for deeper ride-level insights
+- Incorporate user feedback and rating trends over time
+- Enable region-wise performance comparison with heat maps
+- Embed dashboard into web portal for broader stakeholder access
