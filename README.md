@@ -25,13 +25,13 @@ This Power BI dashboard analyzes OLA ride bookings for July 2024. It displays ke
 
 ## 👀 CheckOut the Workings
 <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 15px; margin: 20px 0;">
-    <img src="https://ik.imagekit.io/9cnsmhk11/odd1.png?updatedAt=1745526525892" alt="Sample Image" style="width: 50%; height: auto;">
-    <img src="https://ik.imagekit.io/9cnsmhk11/odd2.png?updatedAt=1745526525594" alt="Sample Image" style="width: 50%; height: auto;">
+    <img src="https://ik.imagekit.io/9cnsmhk11/odd1.png?updatedAt=1745526525892" alt="Sample Image" style="width: 40%; height: auto;">
+    <img src="https://ik.imagekit.io/9cnsmhk11/odd2.png?updatedAt=1745526525594" alt="Sample Image" style="width: 40%; height: auto;">
 </div>
 <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 15px; margin: 20px 0;">
-    <img src="https://ik.imagekit.io/9cnsmhk11/wpa4.png?updatedAt=1745523567032" alt="Sample Image" style="width: 32%; height: auto;">
-    <img src="https://ik.imagekit.io/9cnsmhk11/wpa5.png?updatedAt=1745523566593" alt="Sample Image" style="width: 32%; height: auto;">
-    <img src="https://ik.imagekit.io/9cnsmhk11/wpa6.png?updatedAt=1745523567032" alt="Sample Image" style="width: 32%; height: auto;">
+    <img src="https://ik.imagekit.io/9cnsmhk11/odd3.png?updatedAt=1745526525662" alt="Sample Image" style="width: 32%; height: auto;">
+    <img src="https://ik.imagekit.io/9cnsmhk11/odd4.png?updatedAt=1745526525659" alt="Sample Image" style="width: 32%; height: auto;">
+    <img src="https://ik.imagekit.io/9cnsmhk11/odd5.png?updatedAt=1745526525743" alt="Sample Image" style="width: 32%; height: auto;">
 </div>
     
 ## 💡 Usage
