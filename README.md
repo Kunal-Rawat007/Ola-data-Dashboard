@@ -1,4 +1,4 @@
-# 📊 Website Performance Dashboard
+# 📊 OLA Dashboard
 
 ## 📝 Project Description
 This Power BI dashboard analyzes OLA ride bookings for July 2024. It displays key metrics like total bookings, booking value, and a breakdown of booking statuses. The dashboard includes a date filter, a ride volume trend chart, and visual insights into cancellations. It's designed to help stakeholders track performance and identify service improvement areas.
